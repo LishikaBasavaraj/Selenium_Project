@@ -1,9 +1,9 @@
 package com.comcast.crm.generic.fileutility;
 
 public interface IPathConstatnt {
-	String DB_URL="jdbc:mysql://49.249.28.218:3333/ninza_hrm";  //ninza hrm
-	String DB_UN="root";
-	String DB_PWD="root";
+	String DB_URL="";  //ninza hrm
+	String DB_UN="";
+	String DB_PWD="";
 	String db_url="";
 	String commonDataPtah = "./ConfigData/CommonData.properties";
 	String testDataPath = "./TestScriptData/CeateOrg.xlsx";
