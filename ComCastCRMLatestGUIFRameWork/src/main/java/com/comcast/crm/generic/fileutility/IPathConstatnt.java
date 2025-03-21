@@ -1,7 +1,7 @@
 package com.comcast.crm.generic.fileutility;
 
 public interface IPathConstatnt {
-	String DB_URL="";  //ninza hrm
+	String DB_URL="";
 	String DB_UN="";
 	String DB_PWD="";
 	String db_url="";
